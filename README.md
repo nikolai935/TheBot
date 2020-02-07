@@ -1,0 +1,2 @@
+# TheBot
+A discord bot.
